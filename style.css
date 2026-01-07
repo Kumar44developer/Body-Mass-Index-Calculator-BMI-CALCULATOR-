@@ -23,3 +23,9 @@ form{
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
+    }
+
+
+label{
+    font-size: large;
+    font-weight: 600px;
