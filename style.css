@@ -29,3 +29,6 @@ form{
 label{
     font-size: large;
     font-weight: 600px;
+    margin-bottom: 5px;
+    color: #000;
+}
