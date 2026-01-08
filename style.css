@@ -59,5 +59,9 @@ input[type="submit"]{
 input[type="submit"]:hover{
        background-color: #2187b5;
 }
- 
+
+
+#result{
+    font-weight: bold;
+
     
