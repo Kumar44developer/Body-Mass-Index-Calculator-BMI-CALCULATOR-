@@ -32,3 +32,11 @@ label{
     margin-bottom: 5px;
     color: #000;
 }
+
+input[type="number"]:focus,
+select:focus{
+
+
+
+
+
