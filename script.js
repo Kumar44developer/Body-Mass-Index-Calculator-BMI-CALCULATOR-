@@ -10,4 +10,6 @@ const weight = parseFloat(document.getElementById('weight').value);
 if(gender && age && heightFeet && heightInches && weight){
 const heightInMeters = ((heightFeet * 12) + heightInches) * 0.0254;  
 const bmi = weight / (heightInMeters * heightInMeters);
+const resultElement = document.getElementById("result");
+
 
