@@ -51,6 +51,8 @@ input[type="submit"]{
     background-color: #3498db;
     border: none;
     border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
 
 
     
