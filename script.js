@@ -12,4 +12,6 @@ const heightInMeters = ((heightFeet * 12) + heightInches) * 0.0254;
 const bmi = weight / (heightInMeters * heightInMeters);
 const resultElement = document.getElementById("result");
 
+let category = '';
+
 
