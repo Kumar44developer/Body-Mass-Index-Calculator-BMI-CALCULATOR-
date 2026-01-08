@@ -7,3 +7,4 @@ const heightFeet = parseInt(document.getElementById('height-feet').value);
 const heightInches = parseInt(document.getElementById('height-inches').value);
 const weight = parseFloat(document.getElementById('weight').value);
 
+if(gender && age && heightFeet && heightInches && weight){
