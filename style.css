@@ -44,4 +44,6 @@ select{
     width: 100%;
 }
 
+input[type="submit"]{
 
+    padding: 10px;
