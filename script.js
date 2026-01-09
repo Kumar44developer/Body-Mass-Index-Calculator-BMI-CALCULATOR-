@@ -20,5 +20,8 @@ category = 'Under Weight';
 category = 'Normal Weight '
 }else if (bmi >= 25 && bmi < 29.9){
 category = 'Over Weight'  
+ }else{
+category = 'Obese'
+}
     
 
