@@ -15,6 +15,7 @@ const resultElement = document.getElementById("result");
 let category = '';
 
 if(bmi < 18.5){
+category = 'Under Weight';
 
     
 
