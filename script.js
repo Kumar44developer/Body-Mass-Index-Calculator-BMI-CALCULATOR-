@@ -26,5 +26,8 @@ category = 'Obese'
 
 let resultMessage = 'Your BMI:' + bmi.toFixed(2) + '<br>';
 resultMessage += 'Category:' + category;
+
+resultElement.innerHTML = resultMessage;
+}   
     
 
