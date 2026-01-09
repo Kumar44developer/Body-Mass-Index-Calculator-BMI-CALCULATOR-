@@ -23,5 +23,8 @@ category = 'Over Weight'
  }else{
 category = 'Obese'
 }
+
+let resultMessage = 'Your BMI:' + bmi.toFixed(2) + '<br>';
+
     
 
